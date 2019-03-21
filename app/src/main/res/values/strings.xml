@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dunctebot App</string>
+    <string name="please_log_in_to_continue">Please log-in to continue</string>
+    <string name="api_key">Api Key</string>
 </resources>
